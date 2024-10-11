@@ -12,3 +12,6 @@ Shortcuts I would like to start using:
 - Ctril-Shift-T(Reopen the last close tab in my browser)
 - Alt-Shift-Arrow Keys(Select entire lines in text editors)
 - Ctrl-L(Focuses the browser's address bar)
+
+
+[CLI commands](docs/cli.md)
